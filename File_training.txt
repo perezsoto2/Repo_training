@@ -1,6 +1,0 @@
-This is a file.
-
-Yup, just a file.
-Still a file. 
-
-Added the .txt
